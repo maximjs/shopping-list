@@ -2,7 +2,7 @@
   "name": "shopping-list",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://maximjs.github.io/shopping-list",
+  "homepage": "https://maximjs.github.io/shopping-list",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",

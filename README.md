@@ -1,4 +1,4 @@
-Результат:  https://maximjs.github.io/shopping-list/
+Результат:  https://maximjs.github.io/shopping-list
 
 ***
 
